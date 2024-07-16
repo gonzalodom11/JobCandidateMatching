@@ -1,4 +1,15 @@
 # JobCandidateMatching
+
+<table align="center" style="border: none; margin: 0 auto;">
+  <tr>
+    <td style="border: none; padding-right: 20px; text-align: center; vertical-align: middle;">
+      <img src="https://github.com/gonzalodom11/JobCandidateMatching/blob/main/images/utcapitole1.png" width="100%">
+    </td>
+    <td style="border: none; padding-left: 20px; text-align: center; vertical-align: middle;">
+      <img src="https://github.com/gonzalodom11/JobCandidateMatching/blob/main/images/IRIT_logo.png" width="100%">
+    </td>
+  </tr>
+</table>
 The aim of this internship is to explore
 the impact of machine learning techniques on
 job-candidate matching. Based on a sample of
