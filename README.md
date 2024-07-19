@@ -9,3 +9,5 @@ The aim of this internship is to explore the impact of machine learning techniqu
 </p>
 
 This project was proposed and funded by IRIT, a Joint Research Unit (UMR 5505) of the Centre National de la Recherche Scientifique (CNRS), the Institut National Polytechnique de Toulouse, the Université Toulouse 3 Paul Sabatier, the Université Toulouse Capitole and the Université Toulouse Jean Jaurès.
+
+Recsys Challenge 2017 dataset: https://github.com/layer6ai-labs/DropoutNet-Data/blob/master/recsys2017.pub.tar.gz
